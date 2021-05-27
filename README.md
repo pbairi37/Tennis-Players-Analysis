@@ -10,6 +10,6 @@ Libraries used in this project:
 3. pandas
 4. matplotlib.pyplot
 5. scipy.stats
-6. seaborn as sns
+6. seaborn
 7. sklearn
 8. statsmodels
